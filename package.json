@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/assert-is-undefined",
+  "version": "0.0.0",
+  "description": "Test if a value is undefined.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/assert-is-undefined.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "undefined",
+    "void",
+    "is",
+    "isundefined",
+    "isvoid",
+    "type",
+    "check",
+    "valid",
+    "validate",
+    "test"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
