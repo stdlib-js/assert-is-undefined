@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isUndefined from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-undefined@esm/index.mjs';
+import isUndefined from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-undefined@v0.2.2-esm/index.mjs';
 ```
 
 #### isUndefined( value )
@@ -74,7 +74,7 @@ var bool = isUndefined( undefined );
 <body>
 <script type="module">
 
-import isUndefined from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-undefined@esm/index.mjs';
+import isUndefined from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-undefined@v0.2.2-esm/index.mjs';
 
 var bool;
 var x;
